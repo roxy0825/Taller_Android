@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">InventoryCesde</string>
+    <string name="email">Email</string>
+    <string name="name">Nombre</string>
+    <string name="password">Contraseña</string>
+    <string name="identification">Documento</string>
+    <string name="register">Registrarse</string>
+    <string name="nomProducto">Nombre Producto</string>
+    <string name="cod">Codigo</string>
+    <string name="descrip">Descripción</string>
+    <string name="fabricante">Fabricante</string>
+    <string name="preUni">Precio Unitario</string>
+    <string name="categoria">Categoria</string>
+    <string name="buscar">Buscar</string>
+
+</resources>
